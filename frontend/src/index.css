@@ -1,0 +1,12 @@
+body{
+  margin: 0;
+}
+
+.rating span{
+  margin: 0.1rem;
+}
+
+.heightScreen{
+  min-height: 80vh;
+
+}
